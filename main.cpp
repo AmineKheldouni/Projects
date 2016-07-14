@@ -37,7 +37,7 @@ int main ()
         window.draw (shape);
         window.draw (shape2);
         window.display ();
-        //sf::sleep(sf::milliseconds(10));
+        sf::sleep(sf::milliseconds(50));
         P.deplacement();
         R.deplacement(liste_proies);
         R.attaque(liste_proies);

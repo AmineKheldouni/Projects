@@ -1,6 +1,8 @@
 #include "predateur.h"
 
 
+
+
 predateur::predateur(){}
 
 predateur::predateur(float a, float b, int h){

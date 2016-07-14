@@ -10,7 +10,7 @@ proie::proie(float a, float b, int h){
 	y = b;
 	hp = h;
 }
-
+ 
 int proie::getHp() const{
 	return hp;
 }

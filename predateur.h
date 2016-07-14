@@ -9,6 +9,7 @@ class predateur
 	float x,y;
 	sf::Sprite s;
 	int hp;
+	int flaire;
 public:
 	predateur();
 	predateur(float a, float b, int h);
