@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1468159038 source:c:\users\amine kheldouni\desktop\projet proie prédateur\proiepred\predateur.cpp
+
+1468159009 source:c:\users\amine kheldouni\desktop\projet proie prédateur\proiepred\proie.cpp
+
+1468191894 source:c:\users\amine kheldouni\desktop\projet proie prédateur\proiepred\main.cpp
+	"koolplot.h"
+	"math.h"
+	<iostream>
+
+1297505290 c:\program files (x86)\codeblocks-ep\sdk\koolplot\include\koolplot.h
+	"Plotstream.h"
+
+1120726162 c:\program files (x86)\codeblocks-ep\sdk\koolplot\include\plotstream.h
+	<graphics.h>
+	"PlotData.h"
+
+1266094214 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1266525576 c:\program files (x86)\codeblocks-ep\sdk\koolplot\include\plotdata.h
+	<cmath>
+	<vector>
+	<iostream>
+
