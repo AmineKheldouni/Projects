@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+
+=======
 #ifndef proie_H
 #define proie_H
 
@@ -38,3 +41,4 @@ public:
 };
 
 #endif // proie_H
+>>>>>>> 5610c7c81a08a1684d34ba84f1c2e4c5bcf9d9ea

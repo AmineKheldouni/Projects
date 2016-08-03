@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+
+=======
 #include "predateur.h"
 
 
@@ -114,3 +117,4 @@ void predateur::attaque(std::vector<proie> v){
 predateur::~predateur(){
 
 }
+>>>>>>> 5610c7c81a08a1684d34ba84f1c2e4c5bcf9d9ea
